@@ -1,4 +1,4 @@
-# WS03 Black & White Version – README
+# WS03 JOBSEEK – README
 
 ## Project Overview
 WS03 JOBSEEK is a PHP-based Job Portal website named **Jobseek**.
